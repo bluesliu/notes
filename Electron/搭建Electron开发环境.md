@@ -21,4 +21,4 @@ npm install && npm start
 4. `Node parameters`填写`.`
 5. 点击`OK`按钮完成
 
-![屏幕快照 2019-02-18 上午11.26.05](/Users/blues/Documents/md/notes/Electron/assets/屏幕快照 2019-02-18 上午11.26.05.png)
+![](https://ws4.sinaimg.cn/large/006tKfTcgy1g0afx1o9u2j30uc0u0140.jpg)
