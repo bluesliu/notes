@@ -14,3 +14,4 @@ componentDidMount() {
     var rect = ReactDOM.findDOMNode(this).getBoundingClientRect()
 }
 ```
+
